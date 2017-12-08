@@ -5,4 +5,3 @@
 * Record insertion
 
 Data files are stripped off as they are too large.
-# cis550db
